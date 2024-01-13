@@ -7,6 +7,7 @@
 #' @param table_name Name of the table within the database. Default is "safer_table".
 #' @param .f A user-defined function to process the text column in each row.
 #' @return None
+#' @export
 #' @examples
 #' \dontrun{
 #' process(con = NULL, .f = your_processing_function)

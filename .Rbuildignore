@@ -1,3 +1,6 @@
 ^safer\.Rproj$
 ^\.Rproj\.user$
 ^README\.Rmd$
+^safer\.Rcheck$
+^safer.*\.tar\.gz$
+^safer.*\.tgz$

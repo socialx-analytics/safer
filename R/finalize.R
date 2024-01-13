@@ -7,6 +7,7 @@
 #' @param table_name Name of the table within the database. Default is "safer_table".
 #' @param output Filename for the exported CSV file. Default is "result.csv".
 #' @return None
+#' @export
 #' @examples
 #' \dontrun{
 #' finalize(db_name = "safer.sqlite", table_name = "safer_table", output = "result.csv")

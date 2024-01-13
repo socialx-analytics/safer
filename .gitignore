@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+safer.Rcheck/
+safer*.tar.gz
+safer*.tgz

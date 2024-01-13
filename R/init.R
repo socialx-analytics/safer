@@ -10,6 +10,7 @@
 #' @param append Logical; if TRUE, data will be appended to the existing table. Default is FALSE.
 #' @param overwrite Logical; if TRUE, existing table will be overwritten. Default is FALSE.
 #' @return None
+#' @export
 #' @examples
 #' \dontrun{
 #' init(df = your_dataframe)
